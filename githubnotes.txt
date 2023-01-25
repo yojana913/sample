@@ -1,0 +1,12 @@
+1. git init - initialized empty git repository
+2. ls-a : show all the hidden files
+3. git status - to check status
+4. git add . : save all the changes that you have made
+5. git commit -m "names.txt added" - commit the changes to git repository
+6. git restore --staged names.txt - restore the commit
+7. git log - to see the history of changes
+8. rm -rf names.txt - delete the file
+9. git reset <id> : remove the logs and reset
+10. git stash - 
+11. git stash pop - all the changes that are in backgroud commit
+12. git stash clear
